@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "226912394386",
+    "project_id": "whichcamlogin",
+    "storage_bucket": "whichcamlogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226912394386:android:8047e886bc539374605a4b",
+        "android_client_info": {
+          "package_name": "itas.miladf.whichcamlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226912394386-64omrs5of3e25dsic9dpt01rucrk3ncl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWwxLTx8CO05j00Xq7nZUVxh2Yq8R1KiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226912394386-64omrs5of3e25dsic9dpt01rucrk3ncl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
